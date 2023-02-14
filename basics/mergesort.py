@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 
 def debug_print(debug_msg=None, **kwargs):
 
@@ -59,10 +57,6 @@ if __name__ == "__main__":
             quit(1)
 
     debug_print(value_list=value_list)
-<<<<<<< HEAD
->>>>>>> b6fd9ed (Strings to integers)
-=======
 
     sorted_list = mergesort(value_list)
     print(sorted_list)
->>>>>>> dd8c56c (Merge-sort)
